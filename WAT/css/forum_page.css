@@ -1,0 +1,19 @@
+body{
+	background: url('images/USCbackground.jpg') fixed;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+  	padding-top: 50px;
+}
+.menu{
+	position:fixed;
+}
+#pushobj {
+	position: absolute;
+	top: 0px;
+	left: 200px;
+	color: #fff;
+	background: #243342;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 2em;
+}

@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+  	padding-top: 50px;
+  	background: url('images/USCbackground.jpg') fixed;
+    background-size: cover;
+}
+#pushobj {
+	position: absolute;
+	top: 0px;
+	left: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 2em;
+	height: 100%;
+}
+.container-fluid{
+	background-color:rgba(50,50,50,0.85);
+	height: 100%;
+}
+.page-header {
+  margin-top: 20px;
+  padding-top: 9px;
+  border-top:1px solid #eeeeee;
+  font-weight:700;
+  color: Yellow;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  width: 100%;
+}
+.custom-alignment{
+	padding-left: 70px;
+}
+.text-custom{
+	color: white;
+	padding-right: 5px;
+}
+.custom-dimension{
+	width: 80px;
+	height: 80px;
+}
+.prepare-for-next-content{
+	margin-top:35px;
+}
+hr{
+	background-color: gray;
+	height:2px;
+}

@@ -8,31 +8,31 @@
 		<ID>0</ID>
 		<DatabaseID>0</DatabaseID>
 		<_Name>WAT</_Name>
-		<SLOC>6,290</SLOC>
+		<SLOC>6,605</SLOC>
 		<Cost>0.00</Cost>
 		<Staff>1.4</Staff>
-		<Effort>10.39</Effort>
-		<Schedule>7.61</Schedule>
+		<Effort>10.87</Effort>
+		<Schedule>7.71</Schedule>
 		<SubSystem>
 			<ID>0</ID>
 			<DatabaseID>0</DatabaseID>
 			<_Name>WAT Network</_Name>
-			<SLOC>6,290</SLOC>
+			<SLOC>6,605</SLOC>
 			<Cost>0.00</Cost>
 			<Staff>1.4</Staff>
-			<Effort>10.39</Effort>
-			<Schedule>7.61</Schedule>
+			<Effort>10.87</Effort>
+			<Schedule>7.71</Schedule>
 			<_ZoomLevel>100</_ZoomLevel>
 			<Component>
 				<ID>0</ID>
 				<DatabaseID>0</DatabaseID>
 				<_Name>System</_Name>
-				<SLOC>6,290</SLOC>
+				<SLOC>6,605</SLOC>
 				<Cost>0.00</Cost>
 				<Staff>1.4</Staff>
-				<Effort>10.39</Effort>
-				<Schedule>7.61</Schedule>
-				<Productivity>605.13</Productivity>
+				<Effort>10.87</Effort>
+				<Schedule>7.71</Schedule>
+				<Productivity>607.43</Productivity>
 				<InstructionCost>0.00</InstructionCost>
 				<Risk>0</Risk>
 				<ParametersSettings>
@@ -304,30 +304,30 @@
 					<_Inception>
 						<_EffortPercentage>6.0</_EffortPercentage>
 						<_SchedulePercentage>12.5</_SchedulePercentage>
-						<Effort>0.6236698964133878</Effort>
-						<Month>0.40300624750035785</Month>
-						<Personnel>1.5475439904013746</Personnel>
+						<Effort>0.652422350668342</Effort>
+						<Month>0.41219128304693775</Month>
+						<Personnel>1.5828145269002407</Personnel>
 					</_Inception>
 					<_Elaboration>
 						<_EffortPercentage>24.0</_EffortPercentage>
 						<_SchedulePercentage>37.5</_SchedulePercentage>
-						<Effort>2.494679585653551</Effort>
-						<Month>1.2090187425010737</Month>
-						<Personnel>2.0633919872018325</Personnel>
+						<Effort>2.609689402673368</Effort>
+						<Month>1.2365738491408131</Month>
+						<Personnel>2.1104193692003212</Personnel>
 					</_Elaboration>
 					<_Construction>
 						<_EffortPercentage>76.0</_EffortPercentage>
 						<_SchedulePercentage>62.5</_SchedulePercentage>
-						<Effort>7.899818687902911</Effort>
-						<Month>2.0150312375017894</Month>
-						<Personnel>3.9204447756834817</Personnel>
+						<Effort>8.264016441798999</Effort>
+						<Month>2.060956415234689</Month>
+						<Personnel>4.00979680148061</Personnel>
 					</_Construction>
 					<_Transition>
 						<_EffortPercentage>12.0</_EffortPercentage>
 						<_SchedulePercentage>12.5</_SchedulePercentage>
-						<Effort>1.2473397928267755</Effort>
-						<Month>0.40300624750035785</Month>
-						<Personnel>3.095087980802749</Personnel>
+						<Effort>1.304844701336684</Effort>
+						<Month>0.41219128304693775</Month>
+						<Personnel>3.1656290538004814</Personnel>
 					</_Transition>
 				</COPSEMO>
 				<_MultiBuildShift>0</_MultiBuildShift>
@@ -337,14 +337,14 @@
 					<_Name>Forum Module</_Name>
 					<SLOC>3,210</SLOC>
 					<Cost>0.0</Cost>
-					<Staff>0.7987437351050701</Staff>
-					<Effort>6.074960524412453</Effort>
-					<Schedule>4.445042565741692</Schedule>
-					<Productivity>528.3984952824791</Productivity>
+					<Staff>0.7901692884762708</Staff>
+					<Effort>6.0946443588729515</Effort>
+					<Schedule>4.323137117591986</Schedule>
+					<Productivity>526.6919299936982</Productivity>
 					<InstructionCost>0.0</InstructionCost>
 					<Risk>0.0</Risk>
-					<NominalEffort>10.659161332291994</NominalEffort>
-					<EstimatedEffort>6.074960524412453</EstimatedEffort>
+					<NominalEffort>10.693698703573576</NominalEffort>
+					<EstimatedEffort>6.0946443588729515</EstimatedEffort>
 					<SLOCWithoutREVL>3,000</SLOCWithoutREVL>
 					<_LaborRate>0.0</_LaborRate>
 					<_Language>Non-specified</_Language>
@@ -473,14 +473,14 @@
 					<_Name>Point System</_Name>
 					<SLOC>1,150</SLOC>
 					<Cost>0.0</Cost>
-					<Staff>0.23170388471523218</Staff>
-					<Effort>1.762257268675652</Effort>
-					<Schedule>1.2894418884818306</Schedule>
-					<Productivity>652.5721416738617</Productivity>
+					<Staff>0.2292165630551569</Staff>
+					<Effort>1.7679672613931396</Effort>
+					<Schedule>1.254078899499485</Schedule>
+					<Productivity>650.4645335422173</Productivity>
 					<InstructionCost>0.0</InstructionCost>
 					<Risk>0.0</Risk>
-					<NominalEffort>3.8187026579862287</NominalEffort>
-					<EstimatedEffort>1.762257268675652</EstimatedEffort>
+					<NominalEffort>3.831075859535704</NominalEffort>
+					<EstimatedEffort>1.7679672613931396</EstimatedEffort>
 					<SLOCWithoutREVL>1,000</SLOCWithoutREVL>
 					<_LaborRate>0.0</_LaborRate>
 					<_Language>Non-specified</_Language>
@@ -607,17 +607,17 @@
 					<ID>2</ID>
 					<DatabaseID>0</DatabaseID>
 					<_Name>Notification Module</_Name>
-					<SLOC>525</SLOC>
+					<SLOC>840</SLOC>
 					<Cost>0.0</Cost>
-					<Staff>0.09731563158039755</Staff>
-					<Effort>0.740148052843774</Effort>
-					<Schedule>0.5415655931623691</Schedule>
-					<Productivity>709.3175452976755</Productivity>
+					<Staff>0.15403353037306547</Staff>
+					<Effort>1.1880739996561902</Effort>
+					<Schedule>0.8427410204636541</Schedule>
+					<Productivity>707.0266668937143</Productivity>
 					<InstructionCost>0.0</InstructionCost>
 					<Risk>0.0</Risk>
-					<NominalEffort>1.743320778645887</NominalEffort>
-					<EstimatedEffort>0.740148052843774</EstimatedEffort>
-					<SLOCWithoutREVL>500</SLOCWithoutREVL>
+					<NominalEffort>2.798351062617384</NominalEffort>
+					<EstimatedEffort>1.1880739996561902</EstimatedEffort>
+					<SLOCWithoutREVL>800</SLOCWithoutREVL>
 					<_LaborRate>0.0</_LaborRate>
 					<_Language>Non-specified</_Language>
 					<EAF>0.4245621700320002</EAF>
@@ -697,7 +697,7 @@
 					</EAFSettings>
 					<_Breakage>5.0</_Breakage>
 					<New>
-						<_NewSLOC>500</_NewSLOC>
+						<_NewSLOC>800</_NewSLOC>
 					</New>
 					<FunctionPoints>
 						<_Multiplier>0</_Multiplier>
@@ -745,14 +745,14 @@
 					<_Name>Profile Module</_Name>
 					<SLOC>880</SLOC>
 					<Cost>0.0</Cost>
-					<Staff>0.15425434272867977</Staff>
-					<Effort>1.1732036216505035</Effort>
-					<Schedule>0.8584319215840779</Schedule>
-					<Productivity>750.0829214642089</Productivity>
+					<Staff>0.15259843536958964</Staff>
+					<Effort>1.1770049872370327</Effort>
+					<Schedule>0.8348893960493962</Schedule>
+					<Productivity>747.660383381859</Productivity>
 					<InstructionCost>0.0</InstructionCost>
 					<Risk>0.0</Risk>
-					<NominalEffort>2.922137686111201</NominalEffort>
-					<EstimatedEffort>1.1732036216505035</EstimatedEffort>
+					<NominalEffort>2.931605875122974</NominalEffort>
+					<EstimatedEffort>1.1770049872370327</EstimatedEffort>
 					<SLOCWithoutREVL>800</SLOCWithoutREVL>
 					<_LaborRate>0.0</_LaborRate>
 					<_Language>Non-specified</_Language>
@@ -881,14 +881,14 @@
 					<_Name>Store Module</_Name>
 					<SLOC>525</SLOC>
 					<Cost>0.0</Cost>
-					<Staff>0.08466459947494587</Staff>
-					<Effort>0.6439288059740834</Effort>
-					<Schedule>0.4711620660512611</Schedule>
-					<Productivity>815.3075233306615</Productivity>
+					<Staff>0.08375573214035435</Staff>
+					<Effort>0.6460152373130534</Effort>
+					<Schedule>0.4582404298771119</Schedule>
+					<Productivity>812.67432976289</Productivity>
 					<InstructionCost>0.0</InstructionCost>
 					<Risk>0.0</Risk>
-					<NominalEffort>1.743320778645887</NominalEffort>
-					<EstimatedEffort>0.6439288059740834</EstimatedEffort>
+					<NominalEffort>1.7489694141358652</NominalEffort>
+					<EstimatedEffort>0.6460152373130534</EstimatedEffort>
 					<SLOCWithoutREVL>500</SLOCWithoutREVL>
 					<_LaborRate>0.0</_LaborRate>
 					<_Language>Non-specified</_Language>

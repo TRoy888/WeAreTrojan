@@ -12,7 +12,7 @@ body
   	position: relative;
   	top: 50%;
   	transform: translateY(50%);
-  	
+
 }
 */
 .panel{
@@ -32,4 +32,13 @@ body
 	color: rgb(216,71,52);
 	text-shadow: 2px 2px 5px rgb(249,188,92);
 	color: rgb(216,71,52);*/
+}
+
+.loginButton{
+  display:table-cell;
+}
+
+.loginButton-group{
+  display: table;
+
 }
